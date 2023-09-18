@@ -1,4 +1,4 @@
-# TIF_Community
+# CommunityPro
 A SaaS Platform that enables user to make their communities and add members to it.
 
 ## Tech Stack
